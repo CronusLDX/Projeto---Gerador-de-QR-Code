@@ -1,3 +1,3 @@
 # Projeto---Gerador-de-QR-Code
 
-link: 
+link:  https://cronusldx.github.io/Projeto---Gerador-de-QR-Code/
